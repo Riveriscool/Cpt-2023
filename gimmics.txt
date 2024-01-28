@@ -1,0 +1,4 @@
+#NewsLetter function
+logout
+messages get cleared after 10 lines
+dont use -
